@@ -1,7 +1,7 @@
 class message
 {
-public static vaoid main(String[] args)
+public static void main(String[] args)
 {
-system.out.println("hello");
+System.out.println("hello");
 }
 }
